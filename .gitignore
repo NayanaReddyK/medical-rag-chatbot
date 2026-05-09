@@ -1,0 +1,7 @@
+venv/
+embeddings/faiss.index
+embeddings/chunks.json
+.env
+__pycache__/
+*.pyc
+.streamlit/
