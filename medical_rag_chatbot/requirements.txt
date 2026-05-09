@@ -1,23 +1,15 @@
-# Core ML / NLP
 sentence-transformers==2.7.0
-faiss-cpu==1.8.0
+faiss-cpu
 scikit-learn==1.4.2
 numpy==1.26.4
 pandas==2.2.2
 tiktoken==0.7.0
 rapidfuzz==3.9.3
-
-# LLM APIs
 openai==1.30.1
 google-generativeai==0.5.4
-
-# Data parsing
 lxml==5.2.2
 requests==2.32.2
-
-# UI
 streamlit==1.35.0
-
-# Utilities
 python-dotenv==1.0.1
 tqdm==4.66.4
+groq
